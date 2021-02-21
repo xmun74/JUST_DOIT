@@ -1,0 +1,62 @@
+input{
+  font-family: 'Cinzel', serif;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+}
+
+/* Greeting & Form */
+.js-greetings_form {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+} 
+
+.js-greetings_form input {
+  background-color: var(--white-color);
+  border-bottom: 2px solid white;
+  color: white;
+  font-size: 40px;
+  padding: 15px;
+}
+.js-greetings_form input::placeholder {
+  color: white;
+  font-size: 56px;
+}
+.js-greetings {
+  font-size: 50px;
+  margin-top: 10px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+/* To Do List */
+.js-toDoForm input {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+  background-color:rgba(0,0,0,0.7);
+  padding:7px;
+  margin-top: 10px;
+  color: white;
+}
+
+.js-toDoForm input:focus {
+  background-color:white;
+  color: rgba(31, 31, 31, 0.966);
+  transition: .3s ease-in-out;
+}
+
+.todo-fin-list-row {
+  font-size: 25px;
+}
+.todo-fin-list-row ul li{
+  font-size: 18px;
+}
+.todo-fin-list-row ul li button{
+  color: white;
+  font-size: 18px;
+}

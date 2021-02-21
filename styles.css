@@ -1,0 +1,11 @@
+@import "reset.css";
+@import "index.css";
+@import "status-bar.css";
+@import "input.css";
+@import "todoFin.css";
+
+
+body {
+  font-family: 'Cinzel', serif;
+  background-color:#2c3e50;
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>JUST DO IT</title>
+  <link rel="stylesheet" href="styles.css">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/d1636b1051.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <!-- Status Bar -->
+  <div class="status-bar">
+    <span class="js-weather"></span>
+    <div class="js-clock">
+      <h1>00:00</h1>
+    </div>
+  </div>
+  <!-- Greeting & Form -->
+  <form class="js-greetings_form greetings_form">
+    <input class="greeting_input" type="text" placeholder="What's your name?">
+  </form>
+  <h4 class="js-greetings greetings"></h4>
+  
+  <!-- To Do List -->
+  <form class="js-toDoForm todoform">
+    <input type="text" placeholder="Write a to do 🖋"/>
+  </form>
+
+  <div class="todo-fin-list">
+    <div class="todo-fin-list-row">
+      <h2>- ING</h2>
+      <ul class="js-toDoList"></ul>
+    </div>
+    <div class="todo-fin-list-row">
+      <h2>FINISH</h2>
+      <ul class="js-toDoListFn"></ul>
+    </div>
+  </div>
+ 
+  <script src="clock.js"></script>
+  <script src="greeting.js"></script>
+  <script src="todoFin.js"></script>
+  <script src="bg.js"></script>
+  <script src="weather.js"></script>
+</body>
+</html>

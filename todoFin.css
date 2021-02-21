@@ -1,0 +1,40 @@
+.js-toDoForm{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+/* To Do List */
+.todo-fin-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.todo-fin-list-row{
+  margin:20px;
+  padding:10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  height: 100%;
+}
+.todo-fin-list-row h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.todo-fin-list-row li {
+  display:flex;
+  align-items: center;
+  border-bottom: 0.5px solid white;
+  font-size: 10px;
+  width: 250px;
+  padding: 2px;
+}
+
+.todo-fin-list-row li span {
+  flex : 1 1 90%;
+}
+.todo-fin-list-row li button {
+  flex : 1 1 10%;
+}
+
