@@ -7,9 +7,9 @@ to do list on Vanilla JS
 - [x] To Do List
 - [x] Daily Photo
 
-
+## Link
 [Here!](https://xmun74.github.io/momonton/)<br>
 
-### Preview 
-![index화면](https://user-images.githubusercontent.com/77045939/109927283-4de49080-7d07-11eb-971a-92ccf8a49141.png)<br>
+## Preview 
+![image](https://user-images.githubusercontent.com/77045939/115185427-c918cf00-a11a-11eb-9d64-84d77a39b2ee.png)<br>
 
