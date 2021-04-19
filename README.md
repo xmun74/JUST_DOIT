@@ -8,4 +8,4 @@ to do list on Vanilla JS
 - [x] Daily Photo
 
 
-[Here!](https://xmun74.github.io/JUST_DOIT/)
+[Here!](https://xmun74.github.io/momonton/)
