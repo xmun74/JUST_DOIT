@@ -8,4 +8,8 @@ to do list on Vanilla JS
 - [x] Daily Photo
 
 
-[Here!](https://xmun74.github.io/momonton/)
+[Here!](https://xmun74.github.io/momonton/)<br>
+
+### Preview 
+![index화면](https://user-images.githubusercontent.com/77045939/109927283-4de49080-7d07-11eb-971a-92ccf8a49141.png)<br>
+
